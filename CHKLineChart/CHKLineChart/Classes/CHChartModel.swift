@@ -12,7 +12,7 @@ import UIKit
 
 /**
  改数据的走势方向
- 
+ 测试修改
  - Up:    升
  - Down:  跌
  - Equal: 相等
